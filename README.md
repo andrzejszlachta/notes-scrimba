@@ -1,5 +1,4 @@
 # Notes
-LIVE: TBD
 
 ## Table of Contents
 
@@ -29,7 +28,7 @@ HTML, CSS, JavaScript, React
 1. Add notes
 2. Edit notes
 3. Delete notes
-4. Notes stored in localStorage
+4. Notes stored in Firebase cloud
 
 ## Contact
 
